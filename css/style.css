@@ -1,0 +1,305 @@
+@charset "UTF-8";
+
+
+body 
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  font-style: normal;
+
+}
+h1
+{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 25px
+
+}
+h5
+{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 12px;
+  font-style: normal;
+  color: #CEC9C9;
+
+}
+
+/******* Accueil *****/   
+.nav
+{
+  min-height: 760px;
+           
+}
+
+
+.fa-edit
+{
+  
+  font-size: 20px; 
+}
+.fa-refresh
+{
+  
+  font-size: 20px; 
+  
+}
+.fa-cog
+{
+  
+  font-size: 20px; 
+  
+}
+
+.fa-plus
+{
+  
+  font-size: 20px; 
+  
+}
+
+.menu
+{
+  
+  height: 1024px;
+  padding: 1px; 
+   
+}
+
+.OP
+{
+  
+  height: 10px;
+  padding: 10px; 
+   
+}
+
+.tableau
+{
+  
+  top: 50px
+   
+}
+
+/**** Creation OP ****/
+
+.tableau1
+{
+
+  top: 50px
+
+      
+}
+
+.tableau2
+{
+
+  bottom: -150px;
+
+      
+}
+
+.page
+{
+
+  bottom: -100px;
+
+      
+}
+
+.iconify
+{
+ 
+  
+  font-size: 10px; 
+  padding-left: 10px;
+  padding-top: -5px;
+
+}
+
+/****** Formulaire ****/
+
+
+.titre
+{
+
+  /*padding: 10px;*/
+  font-family: 'Montserrat', sans-serif;     
+}
+
+/** le gros block gris**/
+.form
+{
+
+  width: 900px ;
+  height: 900px;
+  background-color:#CFD8DC;
+  /*top: 80px;*/
+    
+}
+.form2
+{
+
+  width: 900px ;
+  background-color: #E3F2FD; 
+  /*height: 70px;
+  top: 50px;*/
+  
+  /*padding: 10px;  */
+  
+  
+}
+.gene
+{
+
+  width: 620px ;
+  /*height: 40px;  */
+ /* padding: 10px; */
+}
+
+.contenu
+{
+
+  width: 620px ;
+ /* height: 310px; */ 
+ /* padding: 10px; 
+  top: 100px;
+  */
+
+}
+.input-group
+{
+
+  width: 310px ;
+  top: 30px;
+   
+}
+
+.comp
+{
+
+  width: 620px ;
+  /*height: 40px;  
+  padding: 10px; 
+  text-align: left;
+  bottom: -30px; */
+ 
+}
+.contenu2
+{
+
+  width: 620px ;
+  /*height: 320px; */ 
+ /* padding: 10px;
+  bottom: -30px; */
+  
+
+}
+
+/*.bouton 
+{
+ -ms-transform: translate(20px, 50px); 
+ transform: translate(20px, 50px); 
+ 
+}*/
+
+
+/*********** Page Connexion ***********/
+.conn
+{
+
+  width: 536px ;
+  height: 400px; /* 350 */
+  top: 50px;
+  padding: 10px;
+     
+}
+.psw
+{
+
+  float: right;
+ 
+     
+}
+.remember
+{
+
+  padding: 20px;
+  
+}
+
+
+{
+}
+
+
+.mail
+{
+
+  color: #CEC9C9; ;
+ 
+}
+
+
+#email::placeholder
+{
+
+  color: #CEC9C9;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  font-style: normal;
+ 
+}
+.m2p
+{
+
+  color: #CEC9C9;
+ 
+}
+
+
+#mdp::placeholder
+{
+
+  color: #CEC9C9;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  font-style: normal;
+ 
+}
+
+
+/************** Page mot de passe oublié ***********/
+.oublie
+{
+
+  padding: 20px;
+ color: #CEC9C9;
+ 
+}
+.mt2p
+{
+
+  width: 536px ;
+  height: 706px;
+  top: 50px;
+  padding: 10px;
+ 
+}
+.has-error input[type="text"], .has-error select {
+    border: 1px solid #a94442;
+}
+
+
+
+/************** IINSCRIPTION ***************/
+
+.subscribe
+{
+
+  top: 200px;
+  padding: 20px;
+ 
+}
+
+
